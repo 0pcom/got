@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>Got.</h1>
 	<h4 align="center">
-		Simple and fast concurrent downloader - forked from [melbahja/got](https://github.com/melbahja/got)
+		Simple and fast concurrent downloader - forked from <a href='https://github.com/melbahja/got'>melbahja/got</a>)
 	</h4>
 </div>
 
